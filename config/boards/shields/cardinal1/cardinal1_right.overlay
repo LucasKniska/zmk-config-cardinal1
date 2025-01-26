@@ -1,4 +1,4 @@
-#include "cardinal1.dtsi";
+#include "cardinal1.dtsi"
 
 &default_transform {
     col-offset = <6>;
