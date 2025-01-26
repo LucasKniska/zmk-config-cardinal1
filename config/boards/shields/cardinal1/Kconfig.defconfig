@@ -1,7 +1,7 @@
 if SHIELD_cardinal1_left
 
 # Name must be less than 16 characters long!
-config ZMP_cardinal1
+config ZMK_cardinal1
     default "Cardinalv1"
 
 config ZMK_SPLIT_ROLE_CENTRAL
