@@ -29,7 +29,7 @@
     &none             &none           &none     &kp UP_ARROW    &none      &none        &none   &none   &none   &none   &none   &none
     &none             &kp LEFT_SHIFT  &kp LEFT  &kp DOWN_ARROW  &kp RIGHT  &none        &none   &none   &none   &none   &trans  &trans
     &kp LEFT_CONTROL  &trans          &kp PLUS  &kp MINUS       &kp UNDER  &trans       &trans  &trans  &trans  &trans  &trans  &trans
-                                                            &trans     &kp SPACE    &none   &trans  
+                                                                &trans     &kp SPACE    &none   &trans  
             >;
         };
 
