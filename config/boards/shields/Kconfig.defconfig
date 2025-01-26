@@ -1,0 +1,17 @@
+if SHIELD_cardinal1_left
+
+# Name must be less than 16 characters long!
+config cardinal1
+    default "Cardinalv1"
+
+config ZMK_SPLIT_ROLE_CENTRAL
+    default y
+
+endif
+
+if SHIELD_cardinal1_left || SHIELD_cardinal1_right
+
+config ZMK_SPLIT
+    default y
+
+endif
